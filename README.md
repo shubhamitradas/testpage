@@ -1,22 +1,32 @@
 # :robot: **HelloDocument**
 
->
-> Does your organization depend on documents as sources of information?
-> 
+> *********
+# Does your organization depend on documents as sources of information?
+> *********
 
->
-> If yes, do you use search as the best way to find information?
->
+> *********
+# If yes, do you use search as the best way to find information?
+> *********
 
->
-> Search helps but does not solve all your problems, like, finding information quicker from documents, answering questions or creating knowledgebase.
->
+> *********
+# Search helps but does not solve all your problems, like, finding information quicker from documents, answering questions or creating knowledgebase.
+> *********
 
 
 # **THIS IS WHERE WE CAN HELP YOU !!**
 
 ```
-HelloDocument can help you extend the capabilities of your documents by using Deep Machine Learning technologies, Natural Language Processing (NLP), Natural language Understanding (NLU) and Natural Language Generation (NLG), thereby making the extraction easier. Organizational documents grow substantially over time making it intractable and hence, it’s important we organize them to leverage its full potential. We want to leverage the power of Artificial Intelligence without over-complicating the entire process and without spending a lot of additional effort. You can make a better decision by improving operational efficiency and hence drive better outcomes.
+HelloDocument can help you extend the capabilities of your documents by using 
+- Deep Machine Learning technologies, 
+- Natural Language Processing (NLP), 
+- Natural language Understanding (NLU) and 
+- Natural Language Generation (NLG), 
+thereby making the extraction easier. 
+Organizational documents grow substantially over time making it intractable and hence, 
+it’s important we organize them to leverage its full potential. 
+We want to leverage the power of Artificial Intelligence without over-complicating 
+the entire process and without spending a lot of additional effort. 
+You can make a better decision by improving operational efficiency and hence drive better outcomes.
 ```
 
 
