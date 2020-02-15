@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+*HelloDocument*
 
-You can use the [editor on GitHub](https://github.com/shubhamitradas/testpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Does your organization depend on documents as sources of information?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+~~~~~~~~~~~
 
-### Markdown
+# If yes, do you use search as the best way to find information?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Search helps but does not solve all your problems, like, finding information quicker from documents, answering questions or creating knowledgebase.
 
-```markdown
-Syntax highlighted code block
+# THIS IS WHERE WE CAN HELP YOU !!
 
-# Header 1
-## Header 2
-### Header 3
+HelloDocument can help you extend the capabilities of your documents by using Deep Machine Learning technologies, Natural Language Processing (NLP), Natural language Understanding (NLU) and Natural Language Generation (NLG), thereby making the extraction easier. Organizational documents grow substantially over time making it intractable and hence, it’s important we organize them to leverage its full potential. We want to leverage the power of Artificial Intelligence without over-complicating the entire process and without spending a lot of additional effort. You can make a better decision by improving operational efficiency and hence drive better outcomes.
 
-- Bulleted
-- List
+You upload your documents in our system and the following will happen,
+undefined Our Machine Learning algorithms pre-read your documents and create a downloadable knowledgebase. You can validate and edit the content.
+undefined You can ask a question and the machine will get an answer from the documents by understanding your query. We not only give the answer but also show the context. Most of the time users need provenance to make it trustworthy and context serves that purpose.
+undefined A keyword-based search will fetch the passages that contain the information. You don’t want to open a large document to find the information hiding somewhere.
+undefined You can view the important information pertinent to a document and download it if needed.
+undefined You can group together all connected contents from your corpus. This might unravel redundancy in your information content.
+undefined Based on your search, it will show similar queries that may come from other documents.
+undefined The knowledgebase can be integrated with your existing chatbot system through our APIs.
+undefined Dashboard and reporting.
+Deployment
+While our preference is to deploy the solution in the cloud, as we are in the process of adding newer features in the system. However, we can still deploy it on-prem provided it meets the infrastructure and computational need.
 
-1. Numbered
-2. List
+If needed we can work with you to customize our solution.
 
-**Bold** and _Italic_ and `Code` text
+Customization
+For delivering better outcome, in case you need any specific customization, our experts will talk with you to understand the need and will propose the necessary steps. This can be done with additional funding.
 
-[Link](url) and ![Image](src)
-```
+Pricing
+Our Sales and marketing team will assist you with this.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shubhamitradas/testpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us
